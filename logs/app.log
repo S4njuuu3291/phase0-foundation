@@ -1,0 +1,22 @@
+2025-10-19 10:29:44,653 | INFO | Downloading data
+2025-10-19 10:29:46,107 | INFO | Data saved to /home/sanju3291/foundation/phase0_foundation/data/airtravel.csv
+2025-10-19 10:29:46,133 | INFO | 
+Top rows:
+  Month   "1958"   "1959"   "1960"
+0   JAN      340      360      417
+1   FEB      318      342      391
+2   MAR      362      406      419
+3   APR      348      396      461
+4   MAY      363      420      472
+2025-10-19 10:30:07,525 | INFO | Downloading data
+2025-10-19 10:30:08,987 | ERROR | Pipeline failed: HTTP Error 403: Forbidden
+2025-10-19 10:30:38,820 | INFO | Downloading data
+2025-10-19 10:30:40,337 | INFO | Data saved to /home/sanju3291/foundation/phase0_foundation/data/airtravel.csv
+2025-10-19 10:30:40,347 | INFO | 
+Top rows:
+  Month   "1958"   "1959"   "1960"
+0   JAN      340      360      417
+1   FEB      318      342      391
+2   MAR      362      406      419
+3   APR      348      396      461
+4   MAY      363      420      472
